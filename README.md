@@ -1,2 +1,2 @@
 # my-test-git-repo
-idk
+my test repo i want to try
